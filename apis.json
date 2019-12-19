@@ -1,0 +1,42 @@
+{
+    "name": "GoMobileIQ Headlight",
+    "description": "The smarter way to plan routes. Perfect for small business owners, service managers and individuals. Headlight combines online mapping, routing, email and customers notifications into a single online application. It\u2019s a smarter way to quickly plan effi...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gomobileiq.png",
+    "tags": [
+        "api provider",
+        "books",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gomobileiq-headlight\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GoMobileIQ Headlight",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gomobileiq.png",
+            "humanURL": "http:\/\/www.gomobileiq.com\/optimize-daily-routes\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gomobileiq-headlight-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gomobileiq-headlight-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.gomobileiq.com\/optimize-daily-routes\/"
+        }
+    ]
+}
